@@ -1,0 +1,15 @@
+Flask==0.10.1
+Flask-RESTful==0.3.0
+Flask-SQLAlchemy==2.0
+Jinja2==2.7.3
+MarkupSafe==0.23
+PyYAML==3.11
+SQLAlchemy==0.9.8
+Werkzeug==0.9.6
+argparse==1.2.1
+itsdangerous==0.24
+netCDF4==1.1.1
+numpy==1.9.1
+psycopg2==2.5.4
+stevedore==0.15
+wsgiref==0.1.2
